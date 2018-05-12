@@ -1,0 +1,33 @@
+_repo: '----_24230'
+_version: 0.1.0
+alternative_title:
+- Jin gu qi guan
+- Jin Gu Chi Guan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baowenglaoren
+    aliases:
+    - 报瓮老人
+    - Pao-weng-lao-jen
+    - 抱甕老人
+    - 抱瓮老人
+    gutenberg_agent_id: '26333'
+    url: http://www.gutenberg.org/2009/agents/26333
+description: ''
+gutenberg_issued: '2008-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24230'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Chinese'
+- !lcsh 'Chinese fiction -- Ming dynasty, 1368-1644'
+- !lcc 'PL'
+title: 今古奇觀
+url: http://www.gutenberg.org/ebooks/24230
